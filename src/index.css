@@ -150,6 +150,7 @@ nav button:hover {
 }
 
 .feature-card {
+  margin-top: 10px;
   background: rgba(255, 255, 255, 0.05);
   border-radius: 15px;
   padding: 25px 15px;
